@@ -1,1 +1,1 @@
-# cs103a-cpa01
+The goal of this project is to compare trends in healthcare construction spending with U.S. Gross Domestic Product (GDP). This comparison aims to provide insights whether or not investment into the healthcare sector is affected by economic performance.
